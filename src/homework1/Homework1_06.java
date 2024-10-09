@@ -1,10 +1,10 @@
-package Homework1;
+package homework1;
 //請寫一隻程式,利用System.out.println()印出以下三個運算式結果:
 //5 + 5
 //5 + ‘5’
 //5 + “5”
 //並請用註解各別說明答案的產生原因
-public class xxx6 {
+public class Homework1_06 {
 	public static void main(String[]args) {
 		
 		System.out.println(5+5);//兩個5都是值，會相加

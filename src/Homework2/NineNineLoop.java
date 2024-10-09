@@ -1,4 +1,4 @@
-package Homework2;
+package homework2;
 //請建立一個TestNineNine.java程式，可輸出九九乘法表
 //• 一：使用for迴圈+ while迴圈
 //• 二：使用for迴圈+ do while迴圈

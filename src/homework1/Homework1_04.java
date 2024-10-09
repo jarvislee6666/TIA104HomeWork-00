@@ -1,6 +1,6 @@
-package Homework1;
+package homework1;
 //請定義一個常數為3.1415(圓周率),並計算半徑為5的圓面積與圓周長
-public class xxx4 {
+public class Homework1_04 {
 	public static void main(String[]args) {
 		final double i = 3.1415;
 		int	j = 5 ;
