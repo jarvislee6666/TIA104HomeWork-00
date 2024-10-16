@@ -12,8 +12,8 @@ public class Homework5_05 {
 		while (set.size() != 8) {
 			Random random = new Random();
 			int index = random.nextInt(chars.length());
-			char append = (chars.charAt(index));
-			set.add(append);
+			char i = (chars.charAt(index));
+			set.add(i);
 		}
 
 		Iterator it = set.iterator();
