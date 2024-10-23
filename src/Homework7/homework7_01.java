@@ -1,10 +1,10 @@
-package Homework7;
+package homework7;
 
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
 
-public class homework7_01 {
+public class Homework7_01 {
     public static void main(String args[]) {
         int i;
         int byteCount = 0;   // 用来统计位元组（byte）

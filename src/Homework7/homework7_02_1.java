@@ -1,10 +1,10 @@
-package Homework7;
+package homework7;
 
 import java.io.FileWriter;
 import java.io.IOException;
 import java.util.Random;
 
-public class homework7_02_1 {
+public class Homework7_02_1 {
 	public static void main(String[] args) {
         Random rand = new Random();
         String filePath = "Data.txt";  // 文件名

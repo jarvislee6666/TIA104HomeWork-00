@@ -1,4 +1,4 @@
-package Homeworkext;
+package homeworkext;
 
 abstract class Pen {
 	protected String brand;
